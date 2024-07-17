@@ -1,2 +1,2 @@
-# Practice-
-This is a practice repo
+# Practice
+This is a repository dedicated to hold all practice projects 
